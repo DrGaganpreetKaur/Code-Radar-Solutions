@@ -10,7 +10,8 @@ else if(a<0)
 {
 printf("Negative")
 }
-else{
+else
+{
 printf("Zero");
 }
     return 0;
