@@ -8,7 +8,7 @@ printf("Positive");
 }
 else if(num < 0)
 {
-printf("Negative")
+printf("Negative");
 }
 else
 {
